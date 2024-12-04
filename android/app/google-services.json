@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611948980035",
+    "project_id": "my-habits-81b18",
+    "storage_bucket": "my-habits-81b18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611948980035:android:5d72f4768fe855ba1ef1f6",
+        "android_client_info": {
+          "package_name": "com.myhabits.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIej7HIDLTCnILMs6SUzN8dPgFqaPLzN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611948980035:android:2e528b1e8131c95c1ef1f6",
+        "android_client_info": {
+          "package_name": "com.myhabitss.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIej7HIDLTCnILMs6SUzN8dPgFqaPLzN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
